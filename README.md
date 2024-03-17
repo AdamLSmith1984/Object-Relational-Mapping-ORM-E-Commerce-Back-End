@@ -13,7 +13,7 @@
 This is a RESTful API to be used as a back end for an e-commerce website.  It is an Express.js API and is configured to use Sequelize to interact with a MySQL database.  A user is able to Create, Read, Update, and Delete (CRUD) entries in the database for products, categories of products, and associated product tags.  This information can be integrated fully into the front end of a shopping website or application so that these changes and requests can be made on the client side.  
 
 ## Installation
-1.  Navigate to the GitHub repository ( https://github.com/nystephens/e-commerce-back-end ) in your web browser and click the green dropdown menu that says “Code”.  Copy the SSH key to your clipboard and then open your terminal.  
+1.  Navigate to the GitHub repository (https://github.com/AdamLSmith1984/Object-Relational-Mapping-ORM-E-Commerce-Back-End.git ) in your web browser and click the green dropdown menu that says “Code”.  Copy the SSH key to your clipboard and then open your terminal.  
 
 2.  In your terminal navigate to the directory you wish to house this repository.   
 
